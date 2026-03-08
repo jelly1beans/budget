@@ -1,11 +1,11 @@
 {
-  "name": "MONEY TRACKER",
-  "short_name": "Tacker",
+  "name": "Budget Tracker",
+  "short_name": "Budget",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#82a968",
   "theme_color": "#82a968",
-  "description": "A money tracker application",
+  "description": "A simple money tracker application",
   "icons": [
     {
       "src": "icon-192.png",
@@ -18,4 +18,5 @@
       "type": "image/png"
     }
   ]
+
 }
